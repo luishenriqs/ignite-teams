@@ -6,10 +6,10 @@
 
 https://www.npmjs.com/package/babel-plugin-module-resolver
 
-*** Instalação do pacote: ***
+***Instalação do pacote:***
     $ npm install --save-dev babel-plugin-module-resolver
 
-*** Especificação dos alias no arquivo babel.config.js: ***
+***Especificação dos alias no arquivo babel.config.js:***
         Exemplo:
             plugins: [
                 [
@@ -25,7 +25,7 @@ https://www.npmjs.com/package/babel-plugin-module-resolver
                     },
                 ],
 
-*** Configuração das tipagens no arquivo tsconfig.json: ***
+***Configuração das tipagens no arquivo tsconfig.json:***
     Exemplo:
         "baseUrl": "./",
         "paths": {
