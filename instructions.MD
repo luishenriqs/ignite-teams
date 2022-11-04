@@ -20,7 +20,6 @@ https://www.npmjs.com/package/babel-plugin-module-resolver
                         '@routes': './src/routes',
                         '@pages': './src/pages',
                         '@utils': './src/utils',
-
                         },
                     },
                 ],
